@@ -1,0 +1,12 @@
+ll\stm32g4xx_ll_adc.o: ../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_adc.c
+ll\stm32g4xx_ll_adc.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Include/core_cm4.h
+ll\stm32g4xx_ll_adc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+ll\stm32g4xx_ll_adc.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h

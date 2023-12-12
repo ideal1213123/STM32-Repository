@@ -1,0 +1,10 @@
+ll\system_stm32g4xx.o: ../Core/Src/system_stm32g4xx.c
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
+ll\system_stm32g4xx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+ll\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
